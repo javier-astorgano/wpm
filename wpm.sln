@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpm", "wpm\wpm.csproj", "{A78FD1B6-CA4A-43A7-8C20-E61AA639634F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpm.Client", "wpm.Client\wpm.Client.csproj", "{8CD2E982-BE01-4BD2-8A9B-C6FBE149E938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78FD1B6-CA4A-43A7-8C20-E61AA639634F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78FD1B6-CA4A-43A7-8C20-E61AA639634F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78FD1B6-CA4A-43A7-8C20-E61AA639634F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78FD1B6-CA4A-43A7-8C20-E61AA639634F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD2E982-BE01-4BD2-8A9B-C6FBE149E938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD2E982-BE01-4BD2-8A9B-C6FBE149E938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD2E982-BE01-4BD2-8A9B-C6FBE149E938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD2E982-BE01-4BD2-8A9B-C6FBE149E938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
